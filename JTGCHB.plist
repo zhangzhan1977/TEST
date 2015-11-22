@@ -11,7 +11,11 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
+<<<<<<< HEAD
                     <string>http://www.zhangzhan.xyz/upipa/A001ZJJTGCJGGFHB.ipa</string>
+=======
+                    <string>http://www.zhangzhan.xyz/JTGCHB.ipa</string>
+>>>>>>> origin/master
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,9 +27,17 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
+<<<<<<< HEAD
                 <string>A001ZJJTGCJGGFHB.ipa</string>
+=======
+                <string>JTGCHB.ipa</string>
+>>>>>>> origin/master
             </dict>
         </dict>
     </array>
 </dict>
+<<<<<<< HEAD
 </plist>
+=======
+</plist>
+>>>>>>> origin/master
